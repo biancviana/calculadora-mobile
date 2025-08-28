@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">Seja bem-vindo(a) ao nosso app!</string>
+    <string name="entrar">Calculadora</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="somar">+</string>
+    <string name="subtrair">-</string>
+    <string name="multiplicar">*</string>
+    <string name="dividir">/</string>
+</resources>
