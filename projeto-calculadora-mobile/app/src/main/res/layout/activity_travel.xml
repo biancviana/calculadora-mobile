@@ -24,14 +24,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20sp"
-            android:text="Voltar" />
+            android:text="@string/voltarViagem" />
 
         <TextView
             android:id="@+id/tvTituloViagem"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20sp"
-            android:text="Calcule sua viagem"
+            android:text="@string/calcule_sua_viagem"
             android:textAlignment="center"
             android:textSize="33sp" />
 
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="30sp"
             android:ems="10"
-            android:hint="Distância (km)"
+            android:hint="@string/distancia_km"
             android:inputType="numberDecimal" />
 
         <EditText
@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="30sp"
             android:ems="10"
-            android:hint="Valor do litro (R$)"
+            android:hint="@string/valor_do_litro"
             android:inputType="numberDecimal" />
 
         <EditText
@@ -59,7 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20sp"
             android:ems="10"
-            android:hint="Consumo médio (km/l)"
+            android:hint="@string/consumo"
             android:inputType="numberDecimal" />
 
         <Button
@@ -67,7 +67,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20sp"
-            android:text="Calcular"
+            android:text="@string/calcularViagem"
             android:textAlignment="center" />
 
     </LinearLayout>

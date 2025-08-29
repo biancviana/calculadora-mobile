@@ -7,4 +7,17 @@
     <string name="subtrair">-</string>
     <string name="multiplicar">*</string>
     <string name="dividir">/</string>
+    <string name="viagem">Viagem</string>
+    <string name="voltar">Voltar</string>
+    <string name="t_tulo">Título</string>
+    <string name="digite_o_primeiro_numero">Digite o primeiro número</string>
+    <string name="digite_o_segundo_numero">Digite o segundo número</string>
+    <string name="calcular">Calcular</string>
+    <string name="voltar_operacoes">Voltar</string>
+    <string name="voltarViagem">Voltar</string>
+    <string name="calcule_sua_viagem">Calcule sua viagem</string>
+    <string name="distancia_km">Distância (km)</string>
+    <string name="valor_do_litro">Valor do litro (R$)</string>
+    <string name="consumo">Consumo médio (km/l)</string>
+    <string name="calcularViagem">Calcular</string>
 </resources>
